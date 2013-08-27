@@ -25,3 +25,6 @@
 [submodule "Tool/Simulator"]
 	path = Tool/Simulator
 	url = https://github.com/OPRoS/Simulator.git
+[submodule "Component"]
+	path = Component
+	url = https://github.com/OPRoS/ComponentEditor.git
