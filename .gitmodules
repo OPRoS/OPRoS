@@ -28,3 +28,6 @@
 [submodule "Component"]
 	path = Component
 	url = https://github.com/OPRoS/ComponentEditor.git
+[submodule "DeviceAPI"]
+	path = DeviceAPI
+	url = https://github.com/OPRoS/DeviceAPI.git
