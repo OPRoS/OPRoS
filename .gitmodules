@@ -1,0 +1,6 @@
+[submodule "Framework/ComponentExecutionEngine"]
+	path = Framework/ComponentExecutionEngine
+	url = https://github.com/OPRoS/ComponentExecutionEngine.git
+[submodule "Framework/TaskEngine"]
+	path = Framework/TaskEngine
+	url = https://github.com/OPRoS/TaskEngine.git
