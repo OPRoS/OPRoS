@@ -4,3 +4,6 @@
 [submodule "Framework/TaskEngine"]
 	path = Framework/TaskEngine
 	url = https://github.com/OPRoS/TaskEngine.git
+[submodule "CDL"]
+	path = CDL
+	url = https://github.com/OPRoS/CDL.git
