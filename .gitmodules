@@ -1,0 +1,33 @@
+[submodule "Framework/ComponentExecutionEngine"]
+	path = Framework/ComponentExecutionEngine
+	url = https://github.com/OPRoS/ComponentExecutionEngine.git
+[submodule "Framework/TaskEngine"]
+	path = Framework/TaskEngine
+	url = https://github.com/OPRoS/TaskEngine.git
+[submodule "CDL"]
+	path = CDL
+	url = https://github.com/OPRoS/CDL.git
+[submodule "Tool/ComponentEditor"]
+	path = Tool/ComponentEditor
+	url = https://github.com/OPRoS/ComponentEditor.git
+[submodule "Tool/ComponentComposer"]
+	path = Tool/ComponentComposer
+	url = https://github.com/OPRoS/ComponentComposer.git
+[submodule "Tool/TaskEditor"]
+	path = Tool/TaskEditor
+	url = https://github.com/OPRoS/TaskEditor.git
+[submodule "Tool/MainPreference"]
+	path = Tool/MainPreference
+	url = https://github.com/OPRoS/MainPreference.git
+[submodule "Tool/Help"]
+	path = Tool/Help
+	url = https://github.com/OPRoS/Help.git
+[submodule "Tool/Simulator"]
+	path = Tool/Simulator
+	url = https://github.com/OPRoS/Simulator.git
+[submodule "DeviceAPI"]
+	path = DeviceAPI
+	url = https://github.com/OPRoS/DeviceAPI.git
+[submodule "Component"]
+	path = Component
+	url = https://github.com/OPRoS/Component.git
